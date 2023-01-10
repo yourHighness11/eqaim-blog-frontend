@@ -1,0 +1,48 @@
+.project {
+    padding-top: 0px;
+    padding-bottom: 5rem;
+}
+
+.home-header{
+    font-size: 2rem;
+    font-weight: 700;
+    padding-left: 3rem;
+}
+
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Sizing for Project Containers  */
+.column {
+    width: 20rem;
+    padding: 10px;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    height: 182px;
+    border-radius: 5%;
+
+}
+
+/* Color and Images for Project Containers  */
+.project-1 {
+    background-color: #D8D8D8;
+}
+
+.project-text {
+    text-align: center;
+    font-size: 2rem;
+    color: black;
+}
+
+.project-para {
+    text-align: center;
+    font-size: 1.2rem;
+    color: black;
+}

@@ -1,0 +1,23 @@
+.blog-post-text{
+    text-align: center;
+    padding-left: 20vw;
+    padding-right: 20vw;
+}
+
+.blog-post-text h1{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.blog-post-text p{
+    text-align: left;
+    font-size: 1.4rem;
+}
+
+@media only screen and (max-width:600px){
+    .blog-post-text{
+        text-align: center;
+        padding-left: 2vw;
+        padding-right: 2vw;
+    }
+}
